@@ -6,7 +6,7 @@ tags:
  
 在温水里煮久了，就总是会思考到底如何才能成为一个优秀的程序员，如何升职为Senior甚至TL。在网上提问过，也搜索过，到底该读什么书，学什么给技术，走什么样的路线才能成功。到头了却依旧在原地踏步，最后为了寻找答案，便跳了槽。
 
-入职后第一次与TL one on one, 我问他， “what is your expetation to me?” 他回答我，“Grow, and find your interest, then go for it.” 当然说了不止这些，但核心就是这两点。他没有说希望我能努力工作，希望我enjoy my work/life，而是希望我能找到自己的兴趣，然后成长。
+入职后第一次与TL one on one, 我问他， “What is your expetation to me?” 他回答我，“Grow, and also find your interest, then go for it.” 当然说了不止这些，但核心就是这两点。他没有说希望我能努力工作，希望我enjoy my work/life，而是希望我能找到自己的兴趣，然后成长。
 
 - ## How to grow
 
